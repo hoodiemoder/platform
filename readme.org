@@ -1,0 +1,2 @@
+* platform
+This repo contains code and documentation for setting up devices for development and personal use.
