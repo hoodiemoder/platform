@@ -3,5 +3,14 @@
 Follow the link to download the latest release of Debian, with firmware packages included.
 
 https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/
+
+![download-directory.png](./img/download-directory.png)
+
 Latest stable version in iso-dvd is recommended.
-![png](./img/download-directory.png)
+
+Once verified it's integrity with sha512sum and flash the image to an external storage device.
+
+![flashing-image.png](./img/flashing-image.png)
+
+Boot the machine into the bootable image.
+
