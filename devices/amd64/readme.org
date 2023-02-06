@@ -2,6 +2,7 @@
 
 ** 2021
 *** 14
+Keyboard is good.
 **** CPU
 8c16t
 bogomips: 3792.88
@@ -13,12 +14,12 @@ bogomips: 3792.88
 
 ** 2018
 *** 15
+Nvidia, f**ck you.
 **** CPU
 4c8t
 bogomips: 3984.00
 **** GPU
 2048 MiB
-***** Nvidia f**ck you.
 **** RAM
 2x8 GiB
 2400 MT/s

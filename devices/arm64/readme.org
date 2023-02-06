@@ -1,0 +1,39 @@
+* arm64 devices
+** 2022
+*** 11
+**** CPU
+8 cores, 8 threads
+bogomips: 38.40
+**** RAM
+1x4 GiB
+**** SSD
+128 GB
+** 2020
+*** 5
+**** CPU
+8 cores, 8 theads
+**** RAM
+1x8 GB
+**** SSD
+128 GB
+** 2019
+*** 4
+Raspbewwy Pi!
+**** CPU
+4 cores 4 theads
+bogomips: 108.00
+**** RAM
+1x4 GiB
+2400 MT/s
+**** SSD
+123 GB
+** 2018
+*** 6
+USB 2.0 @ 2018
+**** CPU
+4 cores, 4 threads
+2 performance, 2 efficiency
+**** RAM
+1x2 GB
+**** SSD
+128 GB
