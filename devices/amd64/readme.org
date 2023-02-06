@@ -1,0 +1,26 @@
+* amd64 devices
+
+** 2021
+*** 14
+**** CPU
+8c16t
+bogomips: 3792.88
+**** RAM
+2x16 GiB
+3200 MT/s
+**** SSD
+1000 GB
+
+** 2018
+*** 15
+**** CPU
+4c8t
+bogomips: 3984.00
+**** GPU
+2048 MiB
+***** Nvidia f**ck you.
+**** RAM
+2x8 GiB
+2400 MT/s
+**** SSD
+1000 GB
