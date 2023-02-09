@@ -1,14 +1,49 @@
 * Instalation guide for firmware-11.6.0-amd64
 
-Download the latest release of Debian, with firmware packages included:
+Download the latest release of Debian, with firmware packages included at
+
 https://cdimage.debian.org/cdimage/unofficial/non-free/cd-including-firmware/
 
-#+html: <img src="./img/download-directory.png" height="512/600%">
 *Latest stable version in iso-dvd is recommended.*
 
 Once verified it's integrity with sha512sum and flash the image to an external storage device.
 
-#+html: <img src="./img/flashing-image.png">
-
 Boot the machine into the bootable image.
 
+Select Expert install
+
+Keyboard language: English, US
+
+Character encoding: en_US.UTF-8
+
+Keyboard keymap: American English
+
+Hostname: see platform/devices/amd64
+
+Root login: not allowed
+
+Username: hoodiemoder
+
+Timezome: Coordinated Universal Time
+
+Parition: Guided, use entire disk and set up encrypted LVM,
+
+All files in one partition
+
+Volume group: *hostname*-vg
+
+Kernel version: Latest available
+
+APT download protocol: https 
+
+Non free software: yes
+
+Source repositories: yes
+
+Automatic updates: no
+
+Popularity contest: no
+
+Desktop environment: GNOME desktop 
+
+GRUB loader: yes
