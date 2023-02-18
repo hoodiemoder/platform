@@ -9,26 +9,27 @@ Setup of custom ROM phones for my daily use.
 - Location: Disabled
 
 * F-Droid
-Download APK from f-droid.org
+Download APK from f-droid.org.
 
-- Enable Guardian Project repository
+Enable Guardian Project repository.
+
 - Aurora Store
 - Tor Browser
+- Calendar
 - NewPipe
 - RxDroid
+- Gallery
 - Termux
+- Auxio
+- VLC
+- MPV 
 
 * Aurora Store
-- WhatsApp
-- Signal
-- Discord
-- ProtonMail 
 - Google Maps
-
-- Auxio
-- Calendar
-- Discord
 - DuckDuckGo
-- File Manager
-- Gallery
+- ProtonMail 
+- WhatsApp
+- Discord
+- Signal
+- WeChat
 - Uber
