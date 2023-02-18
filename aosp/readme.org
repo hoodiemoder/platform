@@ -1,0 +1,34 @@
+#+title: Android Platform Setup
+
+Setup of custom ROM phones for my daily use.
+
+* Initial configuration
+- Language: English (US)
+- Connect to Wi-Fi network
+- Configure password
+- Location: Disabled
+
+* F-Droid
+Download APK from f-droid.org
+
+- Enable Guardian Project repository
+- Aurora Store
+- Tor Browser
+- NewPipe
+- RxDroid
+- Termux
+
+* Aurora Store
+- WhatsApp
+- Signal
+- Discord
+- ProtonMail 
+- Google Maps
+
+- Auxio
+- Calendar
+- Discord
+- DuckDuckGo
+- File Manager
+- Gallery
+- Uber
