@@ -1,27 +1,27 @@
 * amd64 devices
 
-** 2021
-*** 14
-Keyboard is good.
-**** CPU
-8c16t
-bogomips: 3792.88
-**** RAM
-2x16 GiB
-3200 MT/s
-**** SSD
-1000 GB
+** 14 
+Lenovo ThinkPad P14s, the keyboard is good.
+*** Processor
+- 8 cores, 16 theads
+- bogomips: 3792.88
+*** Memory
+- 2x16 GiB
+- 3200 MT/s
+*** Storage
+- 1000 GB
+- PCIe 3.0
 
-** 2018
-*** 15
-Nvidia, f**ck you.
-**** CPU
-4c8t
-bogomips: 3984.00
-**** GPU
-2048 MiB
-**** RAM
-2x8 GiB
-2400 MT/s
-**** SSD
-1000 GB
+** 15
+Xiaomi Notebook Pro 15, Nvidia, f**ck you.
+*** Processor
+- 4 cores, 8 threads
+- bogomips: 3984.00
+*** Graphics
+2048 MB
+*** Memory
+- 2x8 GiB
+- 2400 MT/s
+*** Storage
+- 1000 GB
+- PCIe 3.0

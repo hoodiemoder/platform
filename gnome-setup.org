@@ -1,0 +1,90 @@
+* Setup for GNOME Desktop on Debian
+
+* APT
+Comment image disk source in /etc/apt/sources
+
+** Install dependencies
+- git
+- mpv
+- emacs
+- inkscape
+- keepassxc
+- ibus-anthy
+- ibus-libpinyin
+
+#+begin_src:
+//One line to get them all
+//Please restart after installing to load ibus-anthy and ibus-libpinyin
+
+sudo apt-get install git mpv emacs inkscape keepassxc ibus-anthy ibus-libpinyin
+#+end_src:
+
+* Settings
+Lock screen notifications: off
+
+** Privacy
+- Location: off
+- Camera : off
+- Microphone: off
+- File history: off
+
+** Sound
+- Input device: lowest volune
+- Alert sound: glass || swing
+
+** Power
+- Power button: Power off
+- Show battery percentage: yes
+
+** Mouse & Touchpad 
+- Natural scrolling: off
+
+** Keyboard
+*** Input Sorces
+- English
+- Spanish
+- Chinese
+- Japanese
+
+Note: Please reboot to add Chinese and Japanese
+
+** Keyboard shortcuts
+*** Launchers
+- Home folder: Super + F
+- Web Browser: Super + B
+- Close Window: Ctrl + Q
+- Lock screen: Super + Esc || Super + L
+- Launch calculator: Super + C
+
+*** Custom shortcuts
+- Launch terminal: Super + T: gnome-terminal
+- Launch emacs: Super + E: emacs
+
+** Accessibility
+- Always show accessibility menu: on
+
+** Users
+Change profile picture to hoodiemoder icon
+
+** Default applications 
+- Browser: Firefox
+- Music: Rhytmbox
+- Video: mpv
+
+* GNOME Tweaks
+
+** Keyboard & Mouse
+
+*** Caps Lock behaviour
+Caps Lock: Additional Ctrl
+
+** Top Bar
+- Weekday: on 
+- Seconds: on 
+- Week numbers: on
+
+
+** Windows Titlebars
+*** Tittle bar Buttons
+- Maximize: on
+- Minimize on
