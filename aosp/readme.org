@@ -1,35 +1,50 @@
 #+title: Android Platform Setup
 
-Setup of custom ROM phones for my daily use.
+Setup of custom ROM devices for daily use.
 
 * Initial configuration
 - Language: English (US)
 - Connect to Wi-Fi network
-- Configure password
 - Location: Disabled
 
-* F-Droid
+* System settings
+- Theme: Dark
+- Clock: Hours, minutes and seconds
+- Network monitor: yes
+
+* F-Droid (org.fdroid.fdroid)
 Download APK from f-droid.org.
 
 Enable Guardian Project repository.
 
+- Simple Calendar
+- Simple Gallery
+- Simple Notes
 - Aurora Store
+- KDE Connect
 - Tor Browser
-- Calendar
-- NewPipe
+- mpv-android
+- DuckDuckGo
+- OpenCamera
+- Nekogram
 - RxDroid
-- Gallery
+- NewPipe
 - Termux
 - Auxio
 - VLC
-- MPV 
 
 * Aurora Store
-- Google Maps
-- DuckDuckGo
-- ProtonMail 
+Aurora Store for installing proprietary software.
+
+** Social
 - WhatsApp
 - Discord
 - Signal
 - WeChat
+
+** Utility
+- Google Maps
+- ProtonMail 
 - Uber
+- Waze
+
