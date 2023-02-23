@@ -1,12 +1,13 @@
 #!/bin/bash
 
-mkdir github  // Creates the github directory
+# Creates the github directory
+mkdir github
+# Sets current directory to github
+cd github
 
-cd github  // Sets current directory to github
 
 
-
-// Cloning repositories, number of repos = n - 10
+# Cloning repositories, number of repos = n - 10
 
 git clone git@github.com:hoodiemoder/....git
 git clone git@github.com:hoodiemoder/art.git
