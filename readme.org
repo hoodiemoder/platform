@@ -6,4 +6,6 @@ Each object in the platform shall interact and integrate with each other.
 
 Ecosystem with continuous improvement and optimization.
 
-Just install GNU/Linux with GNOME, AOSP and GSConnect :)
+-GNU/Linux with GNOME
+- AOSP
+- GSConnect
