@@ -6,6 +6,6 @@ Each object in the platform shall interact and integrate with each other.
 
 Ecosystem with continuous improvement and optimization.
 
--GNU/Linux with GNOME
+- GNU/Linux with GNOME
 - AOSP
 - GSConnect
