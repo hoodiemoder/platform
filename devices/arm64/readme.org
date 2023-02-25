@@ -27,10 +27,15 @@ Sony NEX-5T
 *** Processor
 - BIONZ CXD90016GF SoC
 - CXD4132 ISP
-*** ISO
-- 200 - 12800
+
 *** Sensor
 - 23.4 × 15.6 mm
+- 4192 x 3264 px
+
+*** ISO
+- 200 - 12800
+*** Shutter speed
+- 1/4000 s - 30 s
 
 ** 6
 rotten earth potato (apple), USB 2.0 @ 2018
