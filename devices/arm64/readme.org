@@ -13,7 +13,7 @@ Raspberry Pi 4 Model B, waspbewwy pi!
 - USB 3.0
 
 ** 5
-sony, #索尼大法好
+Sony Xperia 5 II, #索尼大法好
 *** Processor
 - 8 cores, 8 theads
 *** Memory
@@ -21,6 +21,16 @@ sony, #索尼大法好
 *** Storage
 - 128 GB
 - eMMC
+
+** 5T
+Sony NEX-5T
+*** Processor
+- BIONZ CXD90016GF SoC
+- CXD4132 ISP
+*** ISO
+- 200 - 12800
+*** Sensor
+- 23.4 × 15.6 mm
 
 ** 6
 rotten earth potato (apple), USB 2.0 @ 2018
