@@ -1,9 +1,17 @@
-* Setup for GNOME Desktop on Debian
+* Unified setup for GNOME Desktop
 
 * APT
 Comment image disk source in /etc/apt/sources
 
-** Install dependencies
+* DNF
+Increase speed adding the next lines to /etc/dnf/dnf.conf
+
+#+begin_src:
+fastestmirror=True
+max_parallel_downloads=10
+#+end_src:
+
+* Packages
 - git
 - mpv
 - emacs
@@ -11,13 +19,16 @@ Comment image disk source in /etc/apt/sources
 - keepassxc
 - ibus-anthy
 - ibus-libpinyin
+- gnome-tweaks
+- 
+** Commands
 
+- APT
 #+begin_src:
-//One line to get them all
-//Please restart after installing to load ibus-anthy and ibus-libpinyin
-
 sudo apt-get install git mpv emacs inkscape keepassxc ibus-anthy ibus-libpinyin
 #+end_src:
+
+-  DNF
 
 * Settings
 Lock screen notifications: off
