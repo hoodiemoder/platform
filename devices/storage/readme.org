@@ -63,16 +63,30 @@ Using sd as abstraction from different names, taking only form factor into accou
 - 128001sd
 - 128-001-san-sd
 - 128-001-sandisk-sd
-
+- san-128-001
 * Samsung 64GB PRO+ UHS-I microSDXC
 - 64-sam 
 - 64-002-samsung-microsd 
 - 64-002-samsung-msd
 - samsung-64-002-microsd 
 - samsung-64-microsd-002
+-sam-64-002
 
-* Sony 128GB SF-G Series UHS-II SDXC
-- sony-128-sd-
+* Sony 128GB SF-G Series UHS-II SDXCb
+- sony-128-sd
+- son-128-003
 * Kioxia 16GB microSD Exceria Flash
+- kio-16-004
+- kio-016-004
 * Samsung EVO Plus 128GB
+- sam-128-005
 * Lexar Professional 1667x 128GB SDXC UHS-II Card
+- lex-128-006
+* Silicon Power 1TB Micro SD Card
+- sil-1024-007
+* SanDisk 1TB Extreme PRO SDXC UHS-I
+- san-1024-008
+- san-1tb-008
+* Lexar Professional 1066x 1TB SDXC UHS-I Card
+- lex-1024-009
+
