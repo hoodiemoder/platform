@@ -1,7 +1,23 @@
 * Unified setup for GNOME Desktop
 
+* Software to install
+- git
+- mpv
+- emacs
+- inkscape
+- keepassxc
+- ibus-anthy
+- ibus-libpinyin
+- gnome-tweaks
+- telegram
+
 * APT
 Comment image disk source in /etc/apt/sources
+
+- Command
+#+begin_src:
+sudo apt-get install git mpv emacs inkscape keepassxc ibus-anthy ibus-libpinyin gnome-tweaks
+#+end_src:
 
 * DNF
 Increase speed adding the next lines to /etc/dnf/dnf.conf
@@ -11,24 +27,13 @@ fastestmirror=True
 max_parallel_downloads=10
 #+end_src:
 
-* Packages
-- git
-- mpv
-- emacs
-- inkscape
-- keepassxc
-- ibus-anthy
-- ibus-libpinyin
-- gnome-tweaks
-- 
-** Commands
-
-- APT
+- Command
 #+begin_src:
-sudo apt-get install git mpv emacs inkscape keepassxc ibus-anthy ibus-libpinyin
+sudo dnf install git mpv emacs inkscape keepassxc ibus-anthy ibus-libpinyin gnome-tweaks
 #+end_src:
 
--  DNF
+* Flatpak
+Go to https://www.flatpak.org/setup/ and follow the instructions
 
 * Settings
 Lock screen notifications: off
