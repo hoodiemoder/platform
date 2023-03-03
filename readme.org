@@ -10,5 +10,5 @@ Ecosystem with continuous improvement and optimization (Keep it updated)
 ** Core components
 
 - GNU/Linux with GNOME
-- AOSP
-- GSConnect
+- KDE Connect
+- AOSP (Android Open Source Project)

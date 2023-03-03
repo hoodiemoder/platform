@@ -1,63 +1,71 @@
 * arm64 devices
 
-** 4
-Raspberry Pi 4 Model B
+** 4 (Raspberry Pi 4 Model B)
 *** Processor
 - 4 cores, 4 theads
 - bogomips: 108.00
+
 *** Memory
 - 1x4 GB
 - 2400 MT/s
+
 *** Storage
 - 123 GB
 - USB 3.0
 
-** 5
-Sony Xperia 5 II
+** 5 (Sony Xperia 5 II)
 *** Processor
 - 8 cores, 8 theads
+
 *** Memory
 - 1x8 GB
+
 *** Storage
 - 128 GB
 - eMMC
 
 ** 5T
 Sony NEX-5T
+
 *** Processor
 - BIONZ CXD90016GF SoC
 - CXD4132 ISP
 
 *** Sensor
-- 23.4 × 15.6 mm (APS-C)
+- 23.4 x 15.6 mm (APS-C)
 - 4192 x 3264 px (16 Megapixels)
 
 *** Storage
 - SD card
 - Memory Stick Pro Duo
+
 *** ISO
 - 200 - 12800
+
 *** Shutter speed
 - 1/4000 s - 30 s
 
-** 6
-iPad (sixth generation)
+** 6 (iPad 6th. generation)
+
 *** Processor
 - 4 cores, 4 threads
 - 2 performance, 2 efficiency
+
 *** Memory
 - 1x2 GB
+
 *** Storage
 - 128 GB
 - eMMC
 
-** 11
-Redmi Note 11
+** 11 (Redmi Note 11)
 *** Processor
 - 8 cores, 8 threads
 - bogomips: 38.40
+
 *** Memory
 - 1x4 GiB
+
 *** Storage
 - 128 GB
 - eMMC

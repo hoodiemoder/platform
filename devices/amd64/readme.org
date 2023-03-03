@@ -1,27 +1,34 @@
 * amd64 devices
 
-** 14 
-Lenovo ThinkPad P14s, the keyboard is good.
+** 14 (Lenovo ThinkPad P14s)
+The keyboard is good.
+
 *** Processor
 - 8 cores, 16 theads
 - bogomips: 3792.88
+
 *** Memory
 - 2x16 GiB
 - 3200 MT/s
+
 *** Storage
 - 1000 GB
 - PCIe 3.0
 
-** 15
-Xiaomi Notebook Pro 15, Nvidia, f**ck you.
+** 15 (Xiaomi Notebook Pro 15)
+
 *** Processor
 - 4 cores, 8 threads
 - bogomips: 3984.00
+
 *** Graphics
-2048 MB
+- 2048 MB
+Nvidia, f**ck you.
+
 *** Memory
 - 2x8 GiB
 - 2400 MT/s
+
 *** Storage
 - 1000 GB
 - PCIe 3.0

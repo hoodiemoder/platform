@@ -5,4 +5,8 @@
 - Computer > Laptop > Tablet > Phone
 - Simple > Complicated > Complex
 - ASCII character set for file names, avoid spaces.
-- 
+- Use dashes (-) instead of spaces( )
+- Kebab > Snake > Camel > Pascal
+- Follow style guides and existing code.
+- Start file names with lowercase for easy auto complete.
+- Abbreviations should not be the norm, use them when neccesary.
