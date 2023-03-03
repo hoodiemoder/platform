@@ -1,0 +1,78 @@
+* Storage devices
+
+* USB Memory Sticks
+
+* M.2 SSDs
+* PCIe
+* SATA
+
+* SD Cards
+** SDXC
+** Micro SD
+
+* Naming Scheme
+
+Names have to be meaningful and related to the object itself.
+For SDCX Cards, starting with 001 for numbering
+
+
+
+** SD card:
+https://en.wikipedia.org/wiki/SD_card
+
+https://en.wikipedia.org/wiki/Eye-Fi
+
+Secure Digital Card (SD Card)
+- miniSD,miniSDHC
+- microSD / TransFlash/ TF, micro SDXC
+- SD, SDHC, SDCX
+
+* Capacity
+- SD: (0, 2 GB]
+- SDHC: (2, 32 GB]
+- SDXC: (32 GB, 2 TB]
+- SDUC: (2, 128TB]
+
+* Speed
+- Standard
+  12.5 MB/s
+- High Speed
+  25 MB/s
+- UHS-I 
+  104 MB/s
+- UHS-II
+  312 MB/s   
+- UHS-III
+  624 MB/s 
+- Express
+  985 Mb/s
+
+Difference between form factor in mini*, micro* and *, incremental name changes with
+speed and feature improvements.
+
+minisd, microsd, sd
+
+Using sd as abstraction from different names, taking only form factor into account.
+
+
+
+(TODO: Take in consideration brand and capacity in the name.)
+
+* SanDisk 128GB:
+- 001128san
+- 128001sd
+- 128-001-san-sd
+- 128-001-sandisk-sd
+
+* Samsung 64GB PRO+ UHS-I microSDXC
+- 64-sam 
+- 64-002-samsung-microsd 
+- 64-002-samsung-msd
+- samsung-64-002-microsd 
+- samsung-64-microsd-002
+
+* Sony 128GB SF-G Series UHS-II SDXC
+- sony-128-sd-
+* Kioxia 16GB microSD Exceria Flash
+* Samsung EVO Plus 128GB
+* Lexar Professional 1667x 128GB SDXC UHS-II Card
