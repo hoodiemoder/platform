@@ -1,10 +1,13 @@
 * platform
 
-This repo contains code and documentation for setting up devices for development and personal use.
+This repository contains code and documentation for setting up devices for 
+development and personal use.
 
-Each object in the platform shall interact and integrate with each other.
+Each element in the platform shall interact and integrate with each other.
 
-Ecosystem with continuous improvement and optimization.
+Ecosystem with continuous improvement and optimization (Keep it updated)
+
+** Core components
 
 - GNU/Linux with GNOME
 - AOSP
