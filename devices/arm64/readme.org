@@ -69,3 +69,15 @@ Sony NEX-5T
 *** Storage
 - 128 GB
 - eMMC
+
+** 8
+OnePlus 8
+
+Snapdragon 865 5G
+12 GB RAM
+256 GB Storage
+1080 x 2400px oled 90Hz Display
+48 MP main Camera
+4300mAh Battery
+
+
